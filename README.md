@@ -1,2 +1,2 @@
 # myfile
-自用，不要fork
+Please do not fork or star,only for self use.
